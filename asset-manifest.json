@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.408fcc25.css",
-    "main.js": "/static/js/main.f9d634f4.js",
+    "main.js": "/static/js/main.e3678329.js",
     "service-worker.js": "/service-worker.js",
     "static/media/IRANYekanWebRegularNum.woff": "/static/media/IRANYekanWebRegularNum.9c78b97ef5b1f81922e9.woff",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.408fcc25.css",
-    "static/js/main.f9d634f4.js"
+    "static/js/main.e3678329.js"
   ]
 }
