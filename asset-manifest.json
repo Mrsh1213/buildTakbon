@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.507c32b1.css",
-    "main.js": "/static/js/main.2578126b.js",
+    "main.js": "/static/js/main.c25f69bc.js",
     "static/media/IRANYekanWebRegularNum.woff": "/static/media/IRANYekanWebRegularNum.9c78b97ef5b1f81922e9.woff",
     "service-worker.js": "/service-worker.js",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -12,6 +12,6 @@
   },
   "entrypoints": [
     "static/css/main.507c32b1.css",
-    "static/js/main.2578126b.js"
+    "static/js/main.c25f69bc.js"
   ]
 }
